@@ -1,0 +1,14 @@
+system.net.ping ping = new ping();
+
+private void FMbnPing (eventargs, e object){
+
+//missing something
+ping.address = textbox1.text;
+
+ping.send
+
+if (ping.status.succes == true)
+{
+richttextbox.appendtext( "" + environment.newline);
+}
+}
